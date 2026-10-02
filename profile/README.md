@@ -27,3 +27,13 @@ You can find upcoming meetings at the LFX Calendar link below.
 Meeting agendas, meeting calendar and recordings can be found here.
 [https://zoom-lfx.platform.linuxfoundation.org/meetings/openids-foundation](https://zoom-lfx.platform.linuxfoundation.org/meetings/openids-foundation)
 
+# Mailing List and Communications
+This Working Group uses the following for communications
+
+Mailing List: The DSWG uses the weekly zoom call and the mailing list for communication with participants. 
+
+You can subscribe to the mailing list by sending an email here: data-standards-wg@lists.openidl.org. You will receive a confirmation email, so please follow the instructions to be properly subscribed. All subscribers can send and comment on emails to the list.  You can find the messages as well as other mailing list commands here: [https://lists.openidl.org/g/data-standards-wg](https://lists.openidl.org/g/data-standards-wg)
+
+For more information, meeting notes/agendas, etc. please review the OpenIDS Data Specifications Working Group Wiki: (https://lf-openidl.atlassian.net/wiki/spaces/HOME/pages/648445967/OpenIDS+Data+Specifications+WG)[https://lf-openidl.atlassian.net/wiki/spaces/HOME/pages/648445967/OpenIDS+Data+Specifications+WG]
+
+
