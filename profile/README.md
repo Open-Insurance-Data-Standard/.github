@@ -19,8 +19,7 @@ By standardizing how policies and insurable objects are described and recorded, 
 # How to Get Involved
 OPENIDS is an open community. Whether you're an insurance professional, regulator, researcher, developer, or just curious — there's a place for you here.
 
-## OPENIDS Community Meetings
-# Meetings
+# OPENIDS Community Meetings
 The OPENIDS Working Group meets every Monday at 11amPT / 2pmET. All calls are held under the Linux Foundation Antitrust Policy and Code of Conduct. Agendas are sent out in advance and these meetings are recorded. You can find meeting pages/agendas and details at the main meeting page or the list at the left under “DSWG Meetings”.  
 
 You can find upcoming meetings at the LFX Calendar link below.
